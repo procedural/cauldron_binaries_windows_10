@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\Sequence.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\Benchmark.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ImGuiHelper.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfCommon.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfPbrMaterial.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\glTFHelpers.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Async.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Camera.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\ColorConversion.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\DDSLoader.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\DxgiFormatHelper.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Error.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\FrameworkWindows.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Hash.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\ImgLoader.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Misc.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\ThreadPool.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\WICLoader.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\WirePrimitives.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ShaderCompiler.cpp">
+      <Filter>SC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ShaderCompilerCache.cpp">
+      <Filter>SC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\DXCHelper.cpp">
+      <Filter>SC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\Sequence.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\Benchmark.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ImGuiHelper.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfStructures.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfCommon.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfPbrMaterial.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\GLTF\GltfHelpers.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Async.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\AsyncCache.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Camera.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\ColorConversion.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\DDSLoader.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\DxgiFormatHelper.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Error.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\FrameworkWindows.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Hash.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\ImgLoader.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Misc.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\Ring.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\WICLoader.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\WirePrimitive.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\WirePrimitives.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\Misc\threadpool.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ShaderCompiler.h">
+      <Filter>SC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\ShaderCompilerCache.h">
+      <Filter>SC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\common\base\DXCHelper.h">
+      <Filter>SC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{30CE6F45-6FC8-3A96-A722-6533F67CA3C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{092558C9-F9B2-3372-BDB8-D234C66B1BA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SC">
+      <UniqueIdentifier>{B240CFA0-E29E-3C5E-A990-7FDF21DC2DB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{F0A82578-C2CE-352B-A87E-1906CC206BE0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

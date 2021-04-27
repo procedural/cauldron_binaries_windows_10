@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/iamvf/Desktop/Cauldron/libs/imgui/CMakeLists.txt
+  imgui.cpp
+  imgui_draw.cpp
+  Generating Code...
+  ImGUI.vcxproj -> C:\Users\iamvf\Desktop\Cauldron\build\DX12\libs\imgui\Release\ImGUI.lib

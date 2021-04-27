@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfBBoxPass.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfDepthPass.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\glTFHelpers.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfPbrPass.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfMotionVectorsPass.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GLTFTexturesAndBuffers.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Bloom.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\BakeSkinning.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\BlurPS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Debug.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\DownSamplePS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\PostProcCS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\PostProcPS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\SkyDome.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\SkyDomeProc.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\TAA.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\ColorConversionPS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Tonemapping.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\TonemappingCS.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\ShadowResolvePass.cpp">
+      <Filter>PostProc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Buffer.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\CommandListRing.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Device.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\DynamicBufferRing.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Fence.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\FreesyncHDR.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\GBuffer.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\GPUTimestamps.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Helper.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Imgui.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\ResourceViewHeaps.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\ShaderCompilerHelper.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\StaticBufferPool.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\StaticConstantBufferPool.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\SaveTexture.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\SwapChain.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Texture.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UploadHeapSimple.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UploadHeap.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UserMarkers.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\widgets\Wireframe.cpp">
+      <Filter>Widgets</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfBBoxPass.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfDepthPass.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\glTFHelpers.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfPbrPass.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GltfMotionVectorsPass.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\GLTF\GLTFTexturesAndBuffers.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Bloom.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\BakeSkinning.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\BlurPS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Debug.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\DownSamplePS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\PostProcCS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\PostProcPS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\SkyDome.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\SkyDomeProc.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\TAA.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\ColorConversionPS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\Tonemapping.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\TonemappingCS.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\PostProc\ShadowResolvePass.h">
+      <Filter>PostProc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Buffer.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\CommandListRing.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Device.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\DynamicBufferRing.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Fence.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\FreesyncHDR.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\GBuffer.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\GPUTimestamps.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Helper.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Imgui.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\ResourceViewHeaps.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\ShaderCompilerHelper.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\StaticBufferPool.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\StaticConstantBufferPool.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\SaveTexture.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\SwapChain.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\Texture.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UploadHeapSimple.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UploadHeap.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\base\UserMarkers.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\widgets\Wireframe.h">
+      <Filter>Widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\widgets\WireframeBox.h">
+      <Filter>Widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\widgets\WireframeSphere.h">
+      <Filter>Widgets</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\common.h">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFPbrPass-PS.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFPbrPass-VS.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFPbrPass-IO.h">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFPBRLighting.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFDepthPass.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFNormals.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\ShadowResolve.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFMotionVectorsPass.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\SkyDome.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\SkyDomeProc.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\functions.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\PBRTextures.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\shadowFiltering.h">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\PBRPixelParams.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\BakeSkinning.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\Skinning.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\GLTFVertexFactory.hlsl">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\perFrameStruct.h">
+      <Filter>GLTF Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\blend.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\blur.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\Debug.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\DownSamplePS.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\Tonemappers.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\Tonemapping.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\TonemappingCS.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\ColorConversionPS.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\taa.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\TAASharpenerCS.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\shaders\motionBlur.hlsl">
+      <Filter>PostProc Shaders</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\media\BrdfLut.dds">
+      <Filter>media</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\Cauldron\src\DX12\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{A4FE5B85-161F-39CA-9349-47F5BAB1163D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{30CE6F45-6FC8-3A96-A722-6533F67CA3C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF Shaders">
+      <UniqueIdentifier>{E9AD1301-3CA3-3F80-AC45-8D7F7E5AB026}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProc">
+      <UniqueIdentifier>{7905BE91-C1F5-393E-8C55-9D553E41B8E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProc Shaders">
+      <UniqueIdentifier>{22C95DE1-0748-31E9-B4C2-271A07D7C2DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Widgets">
+      <UniqueIdentifier>{A05CBC39-5587-3B18-9604-D68A8C345EFE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="media">
+      <UniqueIdentifier>{2021BF50-CE48-309E-B3B4-2417313092B5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
